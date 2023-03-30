@@ -1,0 +1,38 @@
+h1 {
+  font-size: 64px;
+  text-align: center;
+}
+
+.content {
+  text-align: center;
+}
+
+.nav {
+  text-align: center;
+}
+.nav .navbar a {
+  font-size: 32px;
+  text-decoration: none;
+}
+
+.form-signin {
+  display: flex;
+  flex-direction: column;
+}
+.form-signin .form-control {
+  margin: 3px auto;
+  block-size: 50px;
+}
+.form-signin .btn {
+  margin: 3px auto;
+  block-size: 50px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 30px;
+}
+
+.todos {
+  font-size: 40px;
+}/*# sourceMappingURL=style.css.map */
